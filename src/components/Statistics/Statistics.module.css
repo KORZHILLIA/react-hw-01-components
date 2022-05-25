@@ -28,6 +28,7 @@
 .label,
 .percentage {
     display: block;
+    color: whitesmoke;
 }
 
 .label {
